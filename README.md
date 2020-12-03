@@ -54,14 +54,14 @@
 
 <a name="핵심기능--약정보-검색"></a>
 * [**약정보 검색 :**](#약정보-검색) 복용 중인 약의 기본 정보, 효능, 용법, 주의사항, 부작용 안내
-  * OpenAPI 약 5만5천개의 정보와 약 부작용 데이터 100개를 자바코드로 파싱  
-  * Jquery의 AutoComplete 기능을 이용하여 검색 시자동완성기능 구현
+  * OpenAPI 약 5만5천개의 정보와 약 부작용 데이터 100개를 자바코드로 파싱 (사진. OpenAPI. 1,2) 
+  * Jquery의 AutoComplete 기능을 이용하여 검색 시자동완성기능 구현 (사진. AutoComplete
  <br>
- <p align="center">OpenAPI. 1<img src="https://user-images.githubusercontent.com/68524500/100977032-ba72b680-3583-11eb-86a1-4f249f9dc233.png" width="600px"></p>
+ <p align="center"><b>OpenAPI. 1</b><img src="https://user-images.githubusercontent.com/68524500/100977032-ba72b680-3583-11eb-86a1-4f249f9dc233.png" width="600px"></p>
 
- <p align="center">OpenAPI. 2<img src="https://user-images.githubusercontent.com/68524500/100977037-bba3e380-3583-11eb-83ab-89afb2e1151a.png" width="600px"></p>
+ <p align="center"><b>OpenAPI. 2</b><img src="https://user-images.githubusercontent.com/68524500/100977037-bba3e380-3583-11eb-83ab-89afb2e1151a.png" width="600px"></p>
 
- <p align="center">AutoComplete<img src="https://user-images.githubusercontent.com/68524500/100977830-e0e52180-3584-11eb-9b36-cdfb9845dc87.jpg" width="600px"></p>
+ <p align="center"><b>AutoComplete</b><img src="https://user-images.githubusercontent.com/68524500/100977830-e0e52180-3584-11eb-9b36-cdfb9845dc87.jpg" width="600px"></p>
 <br>
  
  
