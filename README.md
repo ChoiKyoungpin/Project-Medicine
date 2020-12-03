@@ -28,11 +28,20 @@
 
 ## 개발환경
 
-* 언어 JAVA  `EE`  HTML5/CSS3  JavaScript `ES5`
-* 프레임 워크  Jqueryv`3.2.2`  node.jsv`12.0`
-* 서버(WAS)  Apache Tomcat`v8.0`
-* 개발도구  Eclipse-JEE-Mars-2  MySQL WorkBench
-* 커뮤니티  Github
+* 언어 
+  * JAVA  `EE`  
+  * HTML5/CSS3  
+  * JavaScript `ES5`
+* 프레임 워크  
+  * Jqueryv`3.2.2`  
+  * node.jsv`12.0`
+* 서버(WAS)  
+  * Apache Tomcat`v8.0`
+* 개발도구  
+  * Eclipse-JEE-Mars-2  
+  * MySQL WorkBench
+* 커뮤니티  
+  * Github
 
 <br><br>
 
