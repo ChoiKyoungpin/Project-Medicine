@@ -2,7 +2,7 @@
 <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/68524500/100968395-9bb8f380-3574-11eb-97e9-d32ba2bea425.jpg" width="600px"></p>
 <br>
-**"약 먹는 시간을 놓치거나, 복용하고 있는 약의 정보와 효과를 알고 싶은 사람들을 위한 서비스"**
+__"약 먹는 시간을 놓치거나, 복용하고 있는 약의 정보와 효과를 알고 싶은 사람들을 위한 서비스"__
 <br><br>
 
 # 목차
