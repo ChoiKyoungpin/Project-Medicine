@@ -55,24 +55,29 @@
 <a name="핵심기능--약정보-검색"></a>
 * [**약정보 검색 :**](#약정보-검색) 복용 중인 약의 기본 정보, 효능, 용법, 주의사항, 부작용 안내
   * OpenAPI 약 5만5천개의 정보와 약 부작용 데이터 100개를 자바코드로 파싱 (사진. OpenAPI. 1,2) 
-  * Jquery의 AutoComplete 기능을 이용하여 검색 시자동완성기능 구현 (사진. AutoComplete
+  * Jquery의 AutoComplete 기능을 이용하여 검색시 자동완성기능 구현 (사진. AutoComplete)
+  * 약 이름을 검색하면 효능,용법,주의사항 뿐 아니라 부작용까지 알 수 있도록 구현 (사진. Effect)
  <br>
  <p align="center"><b>OpenAPI. 1</b><img src="https://user-images.githubusercontent.com/68524500/100977032-ba72b680-3583-11eb-86a1-4f249f9dc233.png" width="600px"></p>
 
  <p align="center"><b>OpenAPI. 2</b><img src="https://user-images.githubusercontent.com/68524500/100977037-bba3e380-3583-11eb-83ab-89afb2e1151a.png" width="600px"></p>
 
  <p align="center"><b>AutoComplete</b><img src="https://user-images.githubusercontent.com/68524500/100977830-e0e52180-3584-11eb-9b36-cdfb9845dc87.jpg" width="600px"></p>
+
+ <p align="center"><b>Effect</b><img src="https://user-images.githubusercontent.com/68524500/100979600-56ea8800-3587-11eb-8228-a18d07be6d63.jpg" width="600px"></p>
 <br>
- 
- 
- 
- 
+
+-------------------------------------------------------------------------------
 
 <a name="핵심기능--약-복용-그래프"></a>
 * [**약 복용 그래프 :**](#약-복용-그래프) 복용 주기에 맞춘 약 효능 그래프
+  * 임의로 만든 약 동력 그래프를 시간에 따라 그리게 되고, 복용주기가 끝나면 그래프는 멈추도록 설계함.
+  * 약의 효과가 발현하는 40% 지점부터 (임의로 지정) 약 효과가 발현하고 있다는 신호를 주기위해 `gif 이미지를 띄워 표시함.`
+ 
+  <p align="center"><img src="https://user-images.githubusercontent.com/68524500/100954662-5686c880-3558-11eb-9f9b-1108201da02d.gif" width="600px"></p>
 <br>
 
-
+-------------------------------------------------------------------------------
 
 <a name="핵심기능--재복용-문자발송-알림서비스"></a>
 * [**재복용 문자발송 알림서비스 :**](#재복용-문자발송-알림서비스) 약 복용 주기를 등록하여 복용 시간에 맞춰 문자 메세지 전송
