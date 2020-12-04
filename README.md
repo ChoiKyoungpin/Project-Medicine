@@ -74,7 +74,7 @@
   * 임의로 만든 약 동력 그래프를 시간에 따라 그리게 되고, 복용주기가 끝나면 그래프는 멈추도록 설계함.
   * 약의 효과가 발현하는 40% 지점부터 (임의로 지정) 약 효과가 발현하고 있다는 신호를 주기위해 `gif 이미지를 띄워 표시함.`
  
-  <p align="center"><img src="https://user-images.githubusercontent.com/68524500/100954662-5686c880-3558-11eb-9f9b-1108201da02d.gif" width="600px"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/68524500/101120760-ca48d400-3631-11eb-9466-dca4124b06c0.gif" width="600px"></p>
 <br>
 
 -------------------------------------------------------------------------------
