@@ -58,13 +58,13 @@
   * Jquery의 AutoComplete 기능을 이용하여 검색시 자동완성기능 구현 (사진. AutoComplete)
   * 약 이름을 검색하면 효능,용법,주의사항 뿐 아니라 부작용까지 알 수 있도록 구현 (사진. Effect)
  <br> 
- <p align="center"><b>OpenAPI. 1</b><img src="https://user-images.githubusercontent.com/68524500/100977032-ba72b680-3583-11eb-86a1-4f249f9dc233.png" width="600px"></p>
+ <p align="center"><b>OpenAPI. 1</b><br><img src="https://user-images.githubusercontent.com/68524500/100977032-ba72b680-3583-11eb-86a1-4f249f9dc233.png" width="600px"></p>
 
- <b>OpenAPI. 2</b><p align="center"><img src="https://user-images.githubusercontent.com/68524500/100977037-bba3e380-3583-11eb-83ab-89afb2e1151a.png" width="600px"></p>
+ <p align="center"><b>OpenAPI. 2</b><br><img src="https://user-images.githubusercontent.com/68524500/100977037-bba3e380-3583-11eb-83ab-89afb2e1151a.png" width="600px"></p>
 
- <b>AutoComplete</b><p align="center"><img src="https://user-images.githubusercontent.com/68524500/100977830-e0e52180-3584-11eb-9b36-cdfb9845dc87.jpg" width="600px"></p>
+ <p align="center"><b>AutoComplete</b><br><img src="https://user-images.githubusercontent.com/68524500/100977830-e0e52180-3584-11eb-9b36-cdfb9845dc87.jpg" width="600px"></p>
 
- <b>Effect</b><p align="center"><img src="https://user-images.githubusercontent.com/68524500/100979600-56ea8800-3587-11eb-8228-a18d07be6d63.jpg" width="600px"></p>
+ <p align="center"><b>Effect</b><br><img src="https://user-images.githubusercontent.com/68524500/100979600-56ea8800-3587-11eb-8228-a18d07be6d63.jpg" width="600px"></p>
 <br>
 
 -------------------------------------------------------------------------------
