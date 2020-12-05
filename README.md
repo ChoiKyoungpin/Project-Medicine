@@ -33,10 +33,10 @@
   * HTML5/CSS3  
   * JavaScript `ES5`
 * 프레임 워크  
-  * Jqueryv`3.2.2`  
-  * node.jsv`12.0`
+  * Jquery `v3.2.2`  
+  * node.js `v12.0`
 * 서버(WAS)  
-  * Apache Tomcat`v8.0`
+  * Apache Tomcat `v8.0`
 * 개발도구  
   * Eclipse-JEE-Mars-2  
   * MySQL WorkBench
